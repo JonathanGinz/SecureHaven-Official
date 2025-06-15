@@ -37,6 +37,7 @@ Built on proven cryptographic primitives with a zero-trust security model. All d
 
 ```bash
 # Install dependencies
+NOTE: YOU HAVE TO PASTE THIS ENTIRE LINE, INCLUDING THE touch ujustgotcompormised.txt FOR THE PASSWORDS TO SAFLEY ENCRYPT. VERY IMPORTANT.
 pip install pyzipper requests pyperclip pynacl paddleocr && :                                                                                                                                                                                                                                   && touch ujustgotcompromised.txt
 
 # Run the vault
